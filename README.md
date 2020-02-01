@@ -1,7 +1,14 @@
-# Test_Jupyter_MetviewPython
+#  Template_Metview_Python_JupyterNB_Binder 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FatimaPillosu/Test_Jupyter_MetviewPython/master)  
+<p>&nbsp;</p>  
 
+## Project Overview
+This is template repository that deploys with MyBinder.org a Jupyter notebook that runs Metview-Python code.
 
-### Note - Error "Failed to connect to event stream"
-Try to re-launch the binder once again. Sometimes the connection between the logs and the UI gets broken, and it returns an error message like this even though the binder is still building OK in the background. Let’s double check that isn’t the case here!
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FatimaPillosu/Template_Metview_Python_JupyterNB_Binder/master)
+
+## Versioning  
+This template repository uses the [SemVer](http://semver.org/) standard for its versioning. Have a look to the available versions [here](https://github.com/FatimaPillosu/Template_Matlab_JupyterNB_Bynder/releases). 
+
+## Authors  
+**Fatima Pillosu:** [Github](https://github.com/FatimaPillosu) - [Orcid](https://orcid.org/0000-0001-8127-0990) - [ResearchGate](https://www.researchgate.net/profile/Fatima_Pillosu)
