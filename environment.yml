@@ -1,3 +1,4 @@
+name: Metview-Python
 channels:
   - conda-forge
 dependencies:
