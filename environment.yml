@@ -3,6 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - metview-batch
-  - pip
-  - pip:
-    - metview
+  - metview-python
